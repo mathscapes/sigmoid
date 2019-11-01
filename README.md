@@ -2,6 +2,7 @@
 Work in Progress Concept by Simran Singh (@simraan9)
 
 ![Image of the Poster](https://github.com/mathscapes/sigmoid/raw/master/sigmoid_simran_indiahci2019_ver6.png)
+
 Poster showcased at [IndiaHCI 2019](https://www.indiahci.org/2019/) Hyderabad
 
 Link to high resolution file: [Download here](https://github.com/mathscapes/sigmoid/raw/master/sigmoid_simran_indiahci2019_ver6.pdf)
